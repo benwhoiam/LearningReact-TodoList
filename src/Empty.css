@@ -1,0 +1,8 @@
+.Empty{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: gray;
+    height: 50vh;
+    font-size: 3rem;
+}
